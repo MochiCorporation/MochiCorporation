@@ -6,4 +6,4 @@
 
 <h2 align="center"><a href="https://mochig.com">https://mochig.com</a></h2>
 
-<h2 align="center">doing things bot do</h2>
+<h2 align="center">doing things bots do</h2>
